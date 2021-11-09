@@ -59,7 +59,7 @@
   </div>
   <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">AdminLTE.io</a>.</strong>
+    <strong>Copyright &copy; 2003-2021 <a href="https://wa.me/6289662747512">Aldi XSB</a>.</strong>
     All rights reserved.
     <div class="float-right d-none d-sm-inline-block">
       <b>Version</b> 3.1.0
@@ -73,6 +73,7 @@
   <!-- /.control-sidebar -->
 </div>
 <!-- ./wrapper -->
+
 
 <!-- jQuery -->
 <script src="{{asset('assets/plugins/jquery/jquery.min.js')}}"></script>
