@@ -1,6 +1,6 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
-    <a href="assets/index3.html" class="brand-link">
+    <a href="/home" class="brand-link">
       <img src="{{asset('assets/dist/img/aldi1.jpg')}}" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
       <span class="brand-text font-weight-light">Aldi XSB</span>
     </a>
@@ -16,7 +16,7 @@
             @auth
                 <a herf="#" class="d-block">{{Auth::user()->name}}</a>
             @else
-                <a href="#" class="d-block">Alexander Pierce</a>
+                <a href="#" class="d-block">Guest</a>
             @endauth
 
         </div>
